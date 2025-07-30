@@ -31,13 +31,14 @@ Provide the information requested below. Then (1) save this markdown (md) file, 
 
 Provide the information requested below:
 
-- Last name:
-- First (or preferred) name:
-- Favorite food:
-- Favorite recent Netflix movie or show:
-
+- Last name: Zhang
+- First (or preferred) name: Wenwen
+- Favorite food: Sushi
+- Favorite recent Netflix movie or show: The Queen's Gambit
 ---
 
 If you have any problems with this practice assignment, take screenshots and post them to <https://piazza.com/ucsd/summer2025/rady499>.
 
 > Note: You can copy-and-paste images directly into Piazza rather than having to upload an image file. This will make your post quicker and easier to review
+
+
