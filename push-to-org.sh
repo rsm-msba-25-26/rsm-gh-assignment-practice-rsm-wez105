@@ -12,3 +12,10 @@ git add .
 git commit -m "init"
 gh repo create rsm-msba-25-26/rsm-mgta403-gh-assignment-practice --private --source=. --push
 cd -
+git init
+git add .
+git commit -m "init"
+gh repo create rsm-msba-25-26/rsm--mgta403-gh-assignment-practice --private --source=. --push
+
+cd -
+
