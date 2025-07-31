@@ -32,7 +32,7 @@ Provide the information requested below. Then (1) save this markdown (md) file, 
 Provide the information requested below:
 
 - Last name: Zhang
-- First (or preferred) name: Wenwen
+- First (or preferred) name: Wenwen Z.
 - Favorite food: Sushi
 - Favorite recent Netflix movie or show: The Queen's Gambit
 ---
